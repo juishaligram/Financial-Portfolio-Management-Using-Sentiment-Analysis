@@ -1,0 +1,59 @@
+#stock{
+	position: absolute;
+	top: 14%;
+	left: 3%;
+}
+
+#bond{
+	position: absolute;
+	top: 23%;
+	left: 3%;
+}
+
+#dividend{
+	position: absolute;
+	top: 30%;
+	left: 3%;	
+}
+
+#portfolio{
+	position: absolute;
+	top: 37%;
+	left: 3%;	
+}
+
+#dogs{
+	position:absolute;
+	top: 44%;
+	left: 3%;
+}
+
+#alpha{
+	position: absolute;
+	top: 54%;
+	left: 3%;
+}
+
+#beta{
+	position: absolute;
+	top: 64%;
+	left: 3%;
+}
+
+#ask{
+	position: absolute;
+	top: 71%;
+	left: 3%;
+}
+
+#bid{
+	position: absolute;
+	top: 78%;
+	left: 3%;	
+}
+
+#ft{
+	position: absolute;
+	top: 85%;
+	left: 3%;
+}

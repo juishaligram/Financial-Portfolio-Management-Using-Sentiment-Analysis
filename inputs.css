@@ -1,0 +1,37 @@
+body{
+	font-family: "Arial";
+	height: 100%;
+	 background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+html{
+	height: 100%;
+}
+
+form {
+    border: 3px solid #f1f1f1;
+	width: 30%;
+	height: 50%;
+	position: absolute;
+	top: 25%;
+    right: 35%;
+}
+
+h1{
+	position: absolute;
+	left: 20%;
+}
+
+h2{
+	position: absolute;
+	left: 20%;
+	top: 10%;
+}
+
+#portfolioInputsDiv{
+	position: absolute;
+	top: 5%;
+	left: 27%;
+}
